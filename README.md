@@ -10,7 +10,7 @@
   
 </div>
 
-<img src ="https://res.cloudinary.com/di7mxeypj/image/upload/v1667336529/CapaREADME_rybfvw.png" />
+<img src ="https://res.cloudinary.com/di7mxeypj/image/upload/v1667339228/CapaREADME_aq3a6u.png" />
 
 <div style="display: inline_block">
   
