@@ -24,20 +24,5 @@
 <p>Meu portfólio. Aplicação criada para mostrar os projetos que irei desenvolver durante minha carreira.</p>
 
 
-
-<h2>:hammer: Créditos</h2>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Math-Vieira">
-        <img src="https://cdn.discordapp.com/attachments/908101448112431115/964905499613077504/me.png" width="100px;" alt="Foto do Matheus Vieira"/><br>
-        <sub>
-          <b>Matheus Vieira</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <h2>:dollar: Licença</h2>
 <b>Proibida a utilização dos arquivos para fins diferentes de aprendizado.</b>
